@@ -1,19 +1,24 @@
 import asana
 import csv
 import sys
+import re
+import time
 
-outputdir = ''
-outputfilename = 'asana-export.csv'
+date =  str(time.strftime("%d%m%Y"))
+outputdir = 'C:\\Users\\Hutchida\\Documents\\PSL\\CPT\\'
+outputfilename = 'CPT-' + date + '.csv'
 
-personal_access_token = sys.argv[1] #taken from command line
+#personal_access_token = sys.argv[1] #taken from command line
+personal_access_token = '0/498d19e4ca69c29a59ab93a1249f8682'
 client = asana.Client.access_token(personal_access_token) #start session
 me = client.users.me() #get user info
+
 workspace = me['workspaces'][0] #set main workspace
 print('Initialising Asana session for ' + me['name'] + ' in workspace: ' + workspace['name'])
 projects = client.projects.find_by_workspace(workspace['gid'], iterator_type=None) #find projects within workspace
 tasklist = []
 
-print('\nLooping through all the tasks within the projects...\n')
+print('\nLooping through all the tasks within the projects associated with this user...\n')
 for project in projects:
     print(project['name'])
     #opt_expand delivers all attributes (not a compact view) for each field    
@@ -50,16 +55,16 @@ for project in projects:
             completed_at = task['completed_at'][0:10] + ' ' + task['completed_at'][11:16] if \
                 task['completed_at'] is not None else None
             #build row
-            row = [task['name'], project['name'], task['due_on'], created_at, \
-                modified_at, task['completed'], completed_at, assignee, \
-                task['parent'], task['notes'], task['gid'], tagname]
+            #row = [task['name'], project['name'], task['due_on'], created_at, modified_at, task['completed'], completed_at, assignee, task['parent'], task['notes'], task['gid'], tagname]
+            row = [task['gid'], task['name'], assignee, tagname, task['notes'], project['name'], '']
             row = ['' if s is None else s for s in row]
-            tasklist.append(row)
+            if any(re.findall(r'CPT|Product', tagname, re.IGNORECASE)): #only append row if certain tags exist in the tag string
+                tasklist.append(row)
 
 print('\nExporting to csv file: ' + outputdir + outputfilename + '...') 
-csvheader = ['Task', 'Projects', 'DueDate', 'CreatedAt', \
-    'ModifiedAt', 'Completed', 'CompletedAt', 'Assignee', \
-    'Parent', 'Notes', 'TaskId', 'Tags']
+#csvheader = ['Task', 'Projects', 'DueDate', 'CreatedAt', 'ModifiedAt', 'Completed', 'CompletedAt', 'Assignee', 'Parent', 'Notes', 'TaskId', 'Tags']
+csvheader = ['Task ID', 'Name', 'Assignee', 'Tags', 'Notes', 'Projects', 'CPT Comment']
+
 with open(outputdir + outputfilename, 'w', encoding='utf8') as csvfile:
     csvwriter = csv.writer(csvfile, lineterminator='\n', quoting=csv.QUOTE_MINIMAL)
     csvwriter.writerow(csvheader)

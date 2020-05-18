@@ -1,0 +1,649 @@
+Task ID,Name,Assignee,Tags,Notes,Projects,CPT Comment
+951549222882496,Technical issue-Joint venture shareholders' agreement-majority or minority [Echo ID 107292],Ellaiza Janda-Berroy,CPT,"Hi Louis
+As per the emails, clause 1 of this JVA isn’t showing in the table of contents. I should be grateful if you could look into this.
+Thanks,
+Maria",Content Items not reflecting changes,
+911784267421654,3143483 New starter toolkit,Lexi Crispe,CPT,"Doc ID: 3143483 
+Doc title: New starter toolkit
+
+Description of issue: The subphases under the tabs  Insurance and Reinsurance and Risk and Compliance are not appearing in the interactive toolkit. I have tried republishing and removing the & sign in the title but it didn't work.
+I have tried using different browsers and asked a colleague to try and search for the toolkit but it ended with the same results.
+Please advise. 
+
+- Martin to look into",Content Items not reflecting changes,
+628960100589254,"URGENT—Corporate Precedents—blank drafting notes in the definitions section in precedents doc ID 93368, 93350, 191906 and 875147",Akan,"Akan, Product, CPT","- Lisa added to backlog (47206), has been sized and will be pulled in next week for planning, more update next week, quite high up the list. In current sprint, 56, in a spike, wait for analysis before we know what will happen
+
+- readded to the backlog 54157
+
+There is an additional/Live replicable issue which is that long DNs that require a scroll bar/scrolling arrows, don't have those scroll features and the run-over text gets cut off 
+
+-(06/12)  Lisa has added it to new post-pivot/post-Proxy backlog (relatively low priority) -- Akan asked for this to be considered medium priority of o/s 3 Product issues",Content Items not reflecting changes,
+624006142503139,Technical issue-GDPR compliant data protection warranties—Share purchase agreement and asset purchase agreement (Echo ID 2824993),Akan,"Akan, Product, CPT","- Lisa added to backlog (49634), been sized, unlikely to be looked at in the next few months
+
+-(06/12)  Lisa has added it to new post-pivot/post-Proxy backlog (relatively low priority) -- Akan asked for this to be considered lowest priority of o/s 3 Product issues",Content Items not reflecting changes,
+958507340780966,Removing Commercial Media Pod - deleted from ECHo but still appearing,Lexi Crispe,CPT,"Issue: Media Pod removed from Homepage in ECHo in mid-December yet still appearing with deleted item 3118829 - Data Protection in 2018 on the live site.
+
+Assumed this was related to those cache issues but alas not.",Landing page not reflecting changes,
+958371076273511,FINANCIAL SERVICES- 1526501- LANDING PAGE ERROR,Lexi Crispe,CPT,"DocID: 1526501
+DocTitle: Markets in Financial Instruments Directive (MiFID II) and Markets in Financial Instruments Regulation (MiFIR)—timeline
+Description of error:
+PN is searchable and is working fine when clicked thru search option. But if you browse it, ten clicked from landing page, it returns an error message as shown below. ",Landing page not reflecting changes,
+971141216530757,Case leading to homepage,DIGITAL EDITORS - (PAM/ECHo admin),"CPT, LinkLeadToHomepage","3160616
+Brexit—considerations for personal injury claims
+Case: Brasserie du Pêcheur and ex parte Factortame [1996] All ER (EC) 301 is leading to homepage",Linking,
+968131691464434,Case citation of Federal Commerce and Navigation v Molena Alpha [1979] 1 All ER 307 leads to Commercial homepage,DIGITAL EDITORS - (PAM/ECHo admin),"CPT, LinkLeadToHomepage","Doc ID: 3167806
+Doc Title: What are the remedies for breach of a term implied by section 13 of the Supply of Goods and Services Act 1982? What is repudiatory breach and how is it established?
+Description: Case citation of Federal Commerce and Navigation v Molena Alpha [1979] 1 All ER 307 leads to Commercial homepage",Linking,
+967864290360384,Act not linking,Lexi Crispe,CPT,"1489042
+ Damages in clinical negligence claims
+""The Civil Liability Act 2018"" is not linking",Linking,
+964961984730084,Technical issue - case not linking correctly - Termination-corporate joint ventures (ECHO ID 98970),DIGITAL EDITORS - (PAM/ECHo admin),"CPT, LinkLeadToHomepage",,Linking,
+964992613126077,Case leads to homepage,DIGITAL EDITORS - (PAM/ECHo admin),CPT,"Doc ID: 3175996 
+Doc Title: For the purposes of section 213 of the Housing Act 2004, where a deposit is paid to a landlord before an AST is completed, is the 30-day period calculated from the date of receipt of the deposit by the landlord or the date of completion of the tenancy 
+Description: Case leads to homepage",Linking,
+958371076236510,"Immigration Rules, Appendix A, Table 11CA does not pattern-match",Ellaiza Janda-Berroy,CPT,"Doc ID: 3173194
+Doc Title: Statement of Changes in ImmigrationRules, HC 1779—analysis
+Description: Immigration Rules, Appendix A, Table 11CA does not pattern-match",Linking,
+954194702318891,"Immigration Rules, Part 1, para 39E(1) does not pattern-match",Ellaiza Janda-Berroy,CPT,"Doc ID: 153398
+Doc Title: Extensions, switching and varying existing applications
+Description: Immigration Rules, Part 1, para 39E(1) does not pattern-match",Linking,
+962341761745881,Cases leads to Homepage,DIGITAL EDITORS - (PAM/ECHo admin),"CPT, LinkLeadToHomepage","DOC ID - 23430
+DOC TITLE  - Default judgment—general principles
+DOC ISSUE - Cases leads to Homepage",Linking,
+962341761699875,SI link leads to no docs found page,Lexi Crispe,CPT,"3172400
+
+Planning regime for radioactive waste disposal in England and Wales
+
+The link to SI 2016/1154, Sch 23 Pt 2, para 3 leads to a no docs found page even if the pattern is correct.",Linking,
+962345404326558,Case lead to homepage,DIGITAL EDITORS - (PAM/ECHo admin),"CPT, LinkLeadToHomepage","Doc ID: 1551859 
+Doc Title: CPR 55 procedure in relation to residential common law tenancies
+Description: Case leads to homepage",Linking,
+962341761686880,Case citation of Investors Compensation Scheme v West Bromwich Building Society ('ICS') [1998] 1 All ER 98 leads to Commercial homepage,DIGITAL EDITORS - (PAM/ECHo admin),"CPT, LinkLeadToHomepage","Doc ID: 3175838
+Doc Title: Are there any statutory or case law definitions of ‘retailer’?
+Description: Case citation of Investors Compensation Scheme v West Bromwich Building Society ('ICS') [1998] 1 All ER 98 leads to Commercial homepage",Linking,
+962345404326544,Case leads to homepage,DIGITAL EDITORS - (PAM/ECHo admin),"CPT, LinkLeadToHomepage","Doc ID: 3175780
+Doc Title: What makes a valid retention of title clause?
+Description: Case leads to homepage",Linking,
+960241841263070,Case citation leads back to HOMEPAGE,DIGITAL EDITORS - (PAM/ECHo admin),"CPT, LinkLeadToHomepage","doc ID: 1544986
+doc title: Qualified one-way costs shifting (QOCS)
+issue: case Commissioner of Police of the Metropolis v Brown; Chief Constable of Greater Manchester Police v Brown (Equality and Human Rights Commission intervening) [2018] EWHC 2471 (QB) leads back to the HOMEPAGE.",Linking,
+958398772240492,"IA 1986, s 268(1) leads to the PSL homepage",DIGITAL EDITORS - (PAM/ECHo admin),"CPT, LinkLeadToHomepage","Doc ID: 256364
+Doc title: Individuals and statutory demands
+
+XML Mark-up: <fn:margin-note><lnci:cite><lnci:content>IA 1986, s 268(1)</lnci:content></lnci:cite></fn:margin-note>
+
+Description of issue: IA 1986, s 268(1) leads to the PSL homepage",Linking,
+958475818329751,CASE LINKING ISSUE in PRECEDENT 3168392,DIGITAL EDITORS - (PAM/ECHo admin),"CPT, LinkLeadToHomepage",Case citation Pitt v Holt [2013] UKSC 26 opens as link to Pensions live site homepage,Linking,
+952789365571600,TFEU links are not linking,Lexi Crispe,"CPT, JCITE","[ID 3160616]
+Brexit—considerations for personal injury claims 
+TFEU links are not linking",Linking,
+952830310411935,NA leads to Homepage,DIGITAL EDITORS - (PAM/ECHo admin),CPT,"doc ID: 27352
+Doc title: Payment in lieu of notice (PILON) 
+description of issue: The NA Unaccepted repudiation ineffective; PILON of no effect until notification (Société Générale, London Branch v Geys) leads to Employment's homepage",Linking,
+951287050843081,Spens v IRC [1970] 3 All ER 295 leads to the Private Client homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","215560
+
+Tax treatment of income received by beneficiaries under a Will
+
+Spens v IRC [1970] 3 All ER 295 leads to the Private Client homepage",Linking,
+949778052791234,Chaturachinda v Fairholme [2016] EGLR 28 not linking in live,Ellaiza Janda-Berroy,"CPT, JCITE","45457 
+
+Party Wall etc Act 1996—procedures
+
+The rhcl Chaturachinda v Fairholme [2016] EGLR 28 appears flat in the PN even if the case is available in Lexis Library",Linking,
+949778052825168,Case leading to Homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID: 2658096
+Doc title: Expert evidence in public children proceedings
+keywords to find RHCL: 'It has been said that the court will wish to consider...'
+Description: Re U (Serious Injury: Standard of Proof [2004] 2 FLR 263 leads to homepage.",Linking,
+949774332718685,"Denton v White; Decadent Vapours Limited v Bevan; Utilise TDS Limited v Cranstoun Davies, [2014] EWCA Civ 906, [2014] All ER (D) 53 (Jul) leads to the homepage.",DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","LP:
+Dispute Resolution - Applications—specific; Default judgment - Case
+https://www.lexisnexis.com/uk/lexispsl/disputeresolution/synopsis/98615:98617/Applications%E2%80%94specific/Default-judgment/BCT
+
+",Linking,
+949774332724634,The case: Southwark London Borough Council v Mills [1999] 4 All ER 449 leads to the Environment homepage in live,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID: 3164634
+Doc title: What is the definition of a private, unadopted sewer and how are these sewers identified? How can you identify public sewers? Who is responsible for private, unadopted sewers—the landowner that the sewer services, or the landowner that the sewer passes through, even if they do not use that sewer? What if more than one property has the benefit of a private, unadopted sewer?
+Description of issue: The case: Southwark London Borough Council v Mills [1999] 4 All ER 449 leads to the Environment homepage in live. Kindly see attached screenshots for reference. Thanks!",Linking,
+946785577104809,Case leading to homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","[ID 30135]
+Breach of the duty of care in personal injury claims 
+ Roe v Minister of Health [1954] 2 All ER 131 leads to homepage",Linking,
+946799839176909,The cases: Denton v TH White Ltd [2014] EWCA Civ 906 leads to the Dispute Resolution homepage in live,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID: 3166881
+Doc title: Can you reinstate a claim 10 years after it has been struck out for non-compliance?
+Description of issue: The case: Denton v TH White Ltd [2014] EWCA Civ 906 leads to the Dispute Resolution homepage in live. Kindly see attached screenshots for reference. Thanks!",Linking,
+945305008158040,Case Citation leads to Homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","doc id: 283582
+doc title: General principles of insurance contract law
+Issue: case citation leads to home page",Linking,
+945305008158041,Case Citation leads to Homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage",case citation:  Investors Compensation Scheme Ltd v West Bromwich Building Society  [1998] 1 All ER 98,Linking,
+946785577047727,Crowe v Appleby [1976] 2 All ER 914---leads to homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","265569
+
+CGT—PPR relief for trusts and estates
+
+Crowe v Appleby [1976] 2 All ER 914---leads to homepage",Linking,
+936156880746088,Case leading to LG PA ,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID: 38932
+
+Doc title:  Capacity—housing and care
+
+Keywords to find RHCL: It follows from the definition of lacking capacity under MCA 2005 that a person may hold capacity in som
+
+XML markup: <fn:margin-note><lnci:cite><lnci:content>Masterman-Lister v Brutton & Co [2003] 3 All ER 162, [2002] EWCA Civ 1889</lnci:content></lnci:cite></fn:margin-note>
+
+Description of issue: Case did not have issues before and was requested in taxonomy. But now, after task QA, it was discovered that the case citation [2003] 3 All ER 162, [2002] EWCA Civ 1889 leads to the Local Government PA page.
+
+- Martin to look into
+
+",Linking,
+822092774536535,"URGENT—Henderson (administratrix of the estate of Dennis Robert Bolton, deceased; and on behalf of his dependents) v Hillingdon Hospital NHS Foundation Trust [2018] EWHC 3281 (QB)—leads to the homepage",DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, URGENT, LinkLeadToHomepage","Doc ID: 3169307
+Doc title: Personal Injury weekly highlights—13 December 2018
+Description of issue:
+Henderson (administratrix of the estate of Dennis Robert Bolton, deceased; and on behalf of his dependents) v Hillingdon Hospital NHS Foundation Trust [2018] EWHC 3281 (QB) leads to the homepage once ticked.",Linking,
+945771801863999,Old version of doc appearing,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID: 1850262
+Doc title: Easements—Extinguishing
+URL to landing page: 
+Description of issue: If you search the live site for ""Extinguishing easements"" you get two results, one is the correct doc, ""Easements—Extinguishing"", but one is ""Extinguishing Easements"". This is an old version (at least 6 months old) of the same doc. Not quite sure why it's appearing, but would be good to get it removed.
+
+Thanks!
+Kielan",Linking,
+945446189490972,"The cases: Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 All ER 98 and Homburg Houtimport BV v Agrosin Private Ltd, (The Starsin) [2003] UKHL 12 lead to the Commercial homepage in live",DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID: 3165671
+Doc title: Where a contract notes that two sets of terms and conditions contained in separate documents are incorporated and apply, and those terms conflict, which terms apply?
+Description of issue: The cases: Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 All ER 98 and Homburg Houtimport BV v Agrosin Private Ltd, (The Starsin) [2003] UKHL 12 lead to the Commercial homepage in live. Kindly see attached screenshots for reference. Thanks!",Linking,
+945301297602531,LNB News 07/12/2018 52 leads to the Private Client homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","3169338
+
+Private Client weekly highlights—13 December 2018
+
+LNB News 07/12/2018 52 leads to the Private Client homepage",Linking,
+945298722692740,"Case citation of R (Mirza) v SSHD [2016] UKSC 63, [2016] All ER (D) 73 (Dec) leads to Immigration homepage",DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID: 156150
+Doc Title: Dealing with a refusal
+Description: Case citation of R (Mirza) v SSHD [2016] UKSC 63, [2016] All ER (D) 73 (Dec) leads to Immigration homepage",Linking,
+945298722692723,"Case citation of R (MM (Lebanon)) v SSHD [2017] UKSC 10 / R (Agyarko) v SSHD [2017] UKSC 11, [2017] All ER (D) 168 (Feb) lead to Immigration homepage",DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID: 196851
+Doc Title: Leave outside the Rules—the Secretary of State’s powers and policies
+Description: Case citation of 
+    R (MM (Lebanon)) v SSHD [2017] UKSC 10 
+    R (Agyarko) v SSHD [2017] UKSC 11, [2017] All ER (D) 168 (Feb) 
+lead to Immigration homepage",Linking,
+945298722692679,"Case citation of R on the application of Cart v Upper Tribunal [2011] 4 All ER 127 / R v Devon County Council, ex p. Baker [1995] 1 All ER 73 / R (Chief Constable of Merseyside Police), ex p Calveley [1986] QB 424 lead to Public Law homepage",DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID: 3165127
+
+Doc Title: What are considered the leading cases on 'adequate alternative remedy' in judicial review proceedings?
+
+Description: Case citation of 
+    R on the application of Cart v Upper Tribunal [2011] 4 All ER 127 
+    R v Devon County Council, ex p. Baker [1995] 1 All ER 73 
+    R (Chief Constable of Merseyside Police), ex p Calveley [1986] QB 424 
+lead to Public Law homepage",Linking,
+945301297621492,Case leads to homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID:  3167015  				
+Doc title: Is judgment in default obtained in respect of a fraudulent misrepresentation claim regarded as a debt gained by fraud under section 281(3) of the Insolvency Act 1986? If so, are there any steps that should be taken to ensure that the debt survives the bankruptcy?	
+XML Mark-up:
+
+<fn:margin-note><lnci:cite><lnci:content>New Brunswick Railway Co. v British and French Trust Corporation [1939] AC 1</lnci:content></lnci:cite></fn:margin-note>
+
+<lnci:cite><lnci:content>New Brunswick Railway Co. v British and French Trust Corporation [1939] AC 1</lnci:content></lnci:cite>
+
+
+Description of issue: Case leads to PA's homepage",Linking,
+945222701918243,URGENT—Bayer plc v NHS Darlington CCG; Novartis Pharmaceuticals UK Ltd v NHS Darlington CCG [2018] EWHC 2465 (Admin)—leads to homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, URGENT, LinkLeadToHomepage","Doc ID: 3167124
+Doc title: Life Sciences—Lexis:registered:PSL comments on key developments in 2018 and 2019
+Description of issue:
+Bayer plc v NHS Darlington CCG; Novartis Pharmaceuticals UK Ltd v NHS Darlington CCG [2018] EWHC 2465 (Admin) leads to the homepage when ticked. As advised, I've tried enclosing it in the knowhow tag with the type 'case' but the issue remains.",Linking,
+943741271464310,Case citation linking to Homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","3167096
+Family—Lexis:registered:PSL comments on key developments in 2018 and 2019
+description of issue: D v East Berkshire Community NHS Trust [2003] EWCA Civ 1151, [2003] 2 FLR 1166 leads to the homepage when clicked.",Linking,
+943735266609574,Case citation of AM (Zimbabwe) and another v Secretary of State for the Home Department [2018] 1 WLR 2933,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage",,Linking,
+943731819029297,Case leading to homepage [URGENT],DIGITAL EDITORS - (PAM/ECHo admin),"Product, URGENT, CPT, LinkLeadToHomepage","1534526 
+In what circumstances can you assign a claim or cause of action? 
+Issue:
+Hi Sandi, can you pls raise this issue asap with the Digital Editors:
+- the first snippet below shows an extract from PN:  In what circumstances can you assign a claim or cause of action? [ OD ID: 1534526]. The speech bubble cites the decision: Brownton Ltd v Edward Moore Inbucon Ltd; E D & F Man Ltd and others v Edward Moore Inbucon Ltd and others [1985] 3 All ER 499
+- when you click on that citation you get returned to the homepage in PSL (see second snippet below)
+- i have checked the citation for this case fresh in LL (ie [1985] 3 All ER 499) and it appears to be correct and work fine so can you pls follow this up with digital editors. THIS IS A PRIORITY AS IT HAS COME IN FROM A TOP PRIORITY ENGAGEMENT CUSTOMER - MANY THANKS RUTH",Linking,
+943731819029350,Case leading to homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","1214824 
+Disclosure—confidential information
+Scott (otherwise Morgan) v Scott [1913] AC 417 leading to homepage",Linking,
+941850678410196,Case citations leads to Tax Home Page,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID: 164400
+Doc Title: Taxation in corporate insolvency—the principal issues in outline
+LNB link: <fn:margin-note><lnci:cite><lnci:content>Re Toshoku Finance UK plc (in liquidation) [2002] UKHL 6 at para [42], [2002] STC 368, [2002] 3 All ER 961</lnci:content></lnci:cite></fn:margin-note>
+
+Issue: The link to Toshoku citation leads to Tax Home Page. All citations are available in LexisLib",Linking,
+939772897028987,Case citation linking problem,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","doc id: 2358539
+doc title: Insurance & Reinsurance case tracker—2018
+Issue: case citation Re certain of the members at Lloyd's for any or all of the 1993 to 2018 (inclusive) years of account, represented by the Society of Lloyd's 
+[2018] EWHC 3228 (Ch) leads to the HOMEPAGE instead of the Library",Linking,
+940003486572769,Cases leads to Dispute Resolution's homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID:  82054					
+Doc title: Limitation—tort claims
+XML Mark-up:
+
+<fn:margin-note><lnci:cite><lnci:content>Henderson v Merrett [1994] 3 All ER 506</lnci:content></lnci:cite></fn:margin-note>
+
+<lnci:cite><lnci:content>Henderson v Merrett [1994] 3 All ER 506</lnci:content></lnci:cite>
+
+<lnci:cite><lnci:content>South Australia Asset Management Corp v York Montague (sub-nom Banque Bruxelles Lambert SA v Eagle Star) [1996] 3 All ER 365</lnci:content><!--Note to editor: not sure why this citation is not working? Please can you investigate (and re the same citation in the RDP)? Many thanks!--></lnci:cite>
+
+<lnci:cite><lnci:content>South Australia Asset Management Corp v York Montague (sub-nom Banque Bruxelles Lambert SA v Eagle Star) [1996] 3 All ER 365</lnci:content></lnci:cite>
+
+Description of issue: Cases leads to Dispute Resolution's homepage",Linking,
+938057838775005,"The link to the PN ""IHT—reduced (36%) rate for estates leaving 10% or more to charity"" leads to the Private Client homepage",DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","167565
+
+Introductory guide to IHT
+
+The link to the PN ""IHT—reduced (36%) rate for estates leaving 10% or more to charity"" in the RDP leads to the Private Client homepage despite having the correct PGUID",Linking,
+938057838724055,Case citation of Paragon Finance v DB Thakerar [1999] 1 All ER 400 leads to DR homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","Doc ID: 27972
+Doc Title: Drafting the particulars of claim and reply
+Description of issue: Case citation of Paragon Finance v DB Thakerar [1999] 1 All ER 400 leads to DR homepage",Linking,
+938049027011896,Bristol and West Building Society v Mothew (t/a Stapley & Co) [1996] 4 All ER 698 leads to DR homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","89483
+Limitation—the principal limitation periods	
+Bristol and West Building Society v Mothew (t/a Stapley & Co) [1996] 4 All ER 698 leads to DR homepage",Linking,
+939769124625586,Cases leading to the Private Client homepage,DIGITAL EDITORS - (PAM/ECHo admin),"Product, CPT, LinkLeadToHomepage","152309
+
+Charities and public benefit
+
+The following cases lead to the private client homepage despite all existing on lexislibrary:
+
+*Coats v Gilmour [1948] 1 All ER 521
+*IRC v Baddeley [1955] AC 572
+*Re Scarisbrick's Will Trusts [1951] 1 All ER 822",Linking,
+936568172723697,Create Legislation link report,Daniel Hutchings,CPT,"CPT to create a Legislation link report. Basis of this will go on to help with LNCI cite markup enrichment, whatever path we choose to go down",Linking,
+932706100583835,Atkin's Court Forms Vol 23(3) not linking properly,Lexi Crispe,"RTP, CPT","In the Precedents tab of Property Disputes> Disputes and remedies; First-tier Tribunal and Upper Tribunal, the ACF links lead to the first part of the volume (please see screenshot) and not to the intended forms.
+
+The links should lead to the following locations:
+     Atkin's Court Forms > Lands Chamber of the Upper Tribunal Vol 23(3) > Forms > B: NOTICES OF APPEAL > 2: APPEALS AGAINST DECISIONS OF FIRST-TIER TRIBUNAL (PROPERTY CHAMBER) AND OTHER FIRST INSTANCE TRIBUNALS > 5 Application for permission to appeal against a decision of the First-tier Tribunal (Property Chamber) in England or of a Leasehold Valuation Tribunal or Residential Property Tribunal for Wales
+     Atkin's Court Forms > Lands Chamber of the Upper Tribunal Vol 23(3) > Forms > C: REFERENCE > 8 Reference by a claimant
+     Atkin's Court Forms > Lands Chamber of the Upper Tribunal Vol 23(3) > Forms > D: RESPONDENT’S NOTICES AND REPLIES. > 14 Respondent’s notice for appeal against decision of the First-tier Tribunal (Property Chamber) or the Leasehold Valuation Tribunal or Residential Property Tribunal in Wales
+     Atkin's Court Forms > Lands Chamber of the Upper Tribunal Vol 23(3) > Forms > D: RESPONDENT’S NOTICES AND REPLIES. > 18 Reference response by a claimantAtkin's Court Forms > Lands Chamber of the Upper Tribunal Vol 23(3) > Forms > G: PROCEDURE DURING CLAIM > 27 Statement of agreed facts
+     Atkin's Court Forms > Lands Chamber of the Upper Tribunal Vol 23(3) > Forms > G: PROCEDURE DURING CLAIM > 28 Procedural application for directions
+     Atkin's Court Forms > Lands Chamber of the Upper Tribunal Vol 23(3) > Forms > H: CONCLUDING THE CLAIM > 33 Consent to withdrawal of a case
+     Atkin's Court Forms > Lands Chamber of the Upper Tribunal Vol 23(3) > Forms > I: COSTS > 35 Objection to the registrar’s detailed assessment of costs
+ 
+
+",Linking,
+919985336976829,Linking issue—Simon's tax intelligence (journal),Ellaiza Janda-Berroy,CPT,"217518
+Bare trusts—IHT
+
+Pattern request for the source ""Simon's tax intelligence""
+
+- Martin to set up from scratch",Linking,
+914930861690362,"Article 8 in HRA 1998, Sch 1 Pt I, Art 8 is not linking",Lexi Crispe,CPT,"3152411 
+ Responding to a claim for misuse of private information—a practical guide 
+Article 8 in HRA 1998, Sch 1 Pt I, Art 8 is not linking
+- should be fixed",Linking,
+906492676917309,Pattern match/link report requests - FSR and IP & T Digests,Michael Agnew,"CPT, JCITE","Sources requested: Fleet Street Reports and IP & T Digests
+Doc IDs: 3131901 &  3139339
+Practice Areas: Commercial, IP and Employment
+Issue: FSR citations flat and IP & T Digest links going to app errors.
+Example: Polymasc Pharmaceuticals plc v Charles [1999] FSR 711, (1998) IP & T Digest 42
+Library link: https://www.lexisnexis.com/uk/legal/results/enhdocview.do?docLinkInd=true&ersKey=23_T28132078583&format=GNBFULL&startDocNo=0&resultsUrlKey=0_T28132078586&backKey=20_T28132078587&csi=279841&docNo=1&scrollToPosition=0
+
+
+I've always been under the assumption that FSR didn't link as it was a Sweet & Maxwell/TR source and the I P & T digests no longer worked as they've been discontinued as a publication but both are available in library but either flat (FSR) or going to no doc found  (IP & T digests) and the PSLs have requested whether it is possible to get them both to link in Commercial, IP & Employment.
+
+
+- added JCITE tag since the IP&T Digest issue is a known issue.
+
+",Linking,
+892244360610026,Articles of Directive 2001/83/EC and Directive 93/42/EEC—leads to no docs found,Lexi Crispe,CPT,"Doc ID: 2638156
+Doc title: Introduction to borderline products
+Description of issue:
+The following links lead to no docs found on live:
+Article 1(2) of Directive 2001/83/EC (consolidated version)
+Article 2(2) of Directive 2001/83/EC (consolidated version)
+Article 1(2)(a) of Directive 93/42/EEC (consolidated version)
+Article 1(5) of Directive 93/42/EEC (consolidated version)
+I've followed the guide on linking to this legislations which are as follows:
+<lnci:cite normcite=""Art. 1 02001L0083-20121116"" type=""stat""><lnci:content>Article 1(2) of Directive 2001/83/EC (consolidated version)</lnci:content></lnci:cite>
+<lnci:cite normcite=""Art. 2 02001L0083-20121116"" type=""stat""><lnci:content>Article 2(2) of Directive 2001/83/EC (consolidated version)</lnci:content></lnci:cite>
+<lnci:cite normcite=""Art. 1 01993L0042-20071011"" type=""stat""><lnci:content>Article 1(2)(a) of Directive 93/42/EEC (consolidated version)</lnci:content></lnci:cite>
+<lnci:cite normcite=""Art. 1 01993L0042-20071011"" type=""stat""><lnci:content>Article 1(5) of Directive 93/42/EEC (consolidated version)</lnci:content></lnci:cite>
+Can you please advise?
+
+- still can't upload to VM4, Martin waiting
+
+",Linking,
+883710711638336,FINANCIAL SERVICES- FLAT LINKS,Lexi Crispe,CPT,"DOC ID: 149754
+DOC Title:  FCA suitability rules
+Description: 
+All COBS 9A links are flat. Links are in RHLs.
+
+- Martin looking into, maybe early next week",Linking,
+883710711638333,FINANCIAL SERVICES- Flat link,Lexi Crispe,"Pattern request, CPT","Doc ID: 177233
+Doc Title:  EU passporting and Treaty rights
+Description: 
+SUP App links not working.
+- RHL in section 'Activities which may be passported' -SUP App 3.9 G
+- RHL under section 'Services passport' -SUP App 3.6.3
+- RHL under section 'Place of supply' -SUP App 3.6.5 G)
+
+
+- Martin looking into",Linking,
+870296813814084,"Pattern-matching links in PN Administrative review in the UK (1310063)—Immigration Rules, Appendix AR, and para 34 links are flat",Lexi Crispe,CPT,"Doc ID: 1310063
+Doc Title: Administrative review in the UK
+Issue: Links Immigration Rules, Appendix AR, and  para 34 links flat
+
+- Martin looking into, it's complicated",Linking,
+877892450166372,COMP 4.2.1 R leading to incorrect link and destination,Daniel Hutchings,CPT,"Doc ID:​ 904737
+
+Doc title: An insolvency lawyer's guide to the Financial Services Compensation Scheme
+
+Description of issue:​ 
+COMP 4.2.1 R is leading to the incorrect destination. See screenshot below for reference. 
+
+- Martin looking into",Linking,
+854802509830208,"Case not linking—R (on the application of Benham-Crosswell) v Secretary of State for the Environment, Transport and the Regions [2001] EWHC Admin 146",Ellaiza Janda-Berroy,"CPT, JCITE","Doc ID: 3137950
+
+Doc Title: Listed buildings enforcement and criminal liability regime
+
+Keywords: R (on the application of Benham-Crosswell) v Secretary of State for the Environment, Transport and the Regions [2001] EWHC Admin 146
+
+Description: Although the case is available in Lexis Library (screenshot 1)  and there are no non-breaking spaces in the doc, the citation appears flat in the live site (screenshot 2).  ",Linking,
+862974869070831,Case citation link opening to the wrong case,Lexi Crispe,"CPT, MarkLogic","Procedure—restriction on further applications under the Children Act 1989—section 91(14) orders- 142404
+
+- same issue as Doc ID: 142404
+
+It’s a right hand column knowhow link in the penultimate para: 'Re A (a minor) (contact: parent's application for leave) [1998] 1 FLR 1' which actually opens as '[1998] 1 FLR 839
+GRANT v SOUTH-WEST TRAINS LTD (Case C-249/96)'",Linking,
+846500525024948,Possible to add a link to Environmental Finance journal in Library?,Simone Davidson,CPT,"Hello,
+
+I'm trying to add a link to Environmental Finance journal but in Library they all appear as separate LNB News articles under the Journals Index rather than being its own source. Is there any way I can link to the whole journal as a whole?
+
+Thanks
+Nicola",Linking,
+840687412635211,Case not linking—Ex parte Newsmith Stainless Ltd [2001] EWHC Admin 74,Lexi Crispe,"CPT, JCITE","Doc ID: 243903
+
+Doc Title: Determining planning applications—material considerations
+
+Keywords: Ex parte Newsmith Stainless Ltd [2001] EWHC Admin 74
+
+Description: Although the case is available in Lexis Library and there are no non-breaking spaces in the doc, the citation appears flat online. 
+
+(Please note that I have temporarily moved the case to the body and added the necessary wording.)
+
+- Martin sent on to the US, in the JCITE queue",Linking,
+840725772837660,Shortened URLs,Daniel Hutchings,CPT,"- tiny urls, script something to expose the %20, Connell to send list with doc IDs to Dan to look at. Connell sent, Dan made replacements, should all be fine now as of 01/10/2018
+
+- long term solution, being able to use any character in a url and it not fail at US - not likely to happen this year, need to more involved in Mark Logic",Linking,
+819839750637153,"Journal links to the source ""Trusts & Trustees"" all lead to a no docs found page despite existing on lexislibrary",Lexi Crispe,"CPT, JCITE","3132993
+
+Private Client weekly highlights—13 September 2018
+
+Journal links to the source ""Trusts & Trustees"" all lead to a no docs found page despite existing on lexislibrary
+
+- Martin added to the JCITE queue, this will take a very long time to get resolved. ",Linking,
+777093157854516,Data Protection Commissioner v Facebook Ireland Limited [2018] IESC 38—not working on RHL,Lexi Crispe,"CPT, MarkLogic","Doc IDs: 1681196 and 1754245
+Doc titles: Model Clauses and The Privacy Shield
+Keywords to find RHCL: 
+Model Clauses > RHL above the main section 'Types of Model Clauses issued by the European Commission'
+The Privacy Shield > last RHL 
+Description of issue:
+The case Data Protection Commissioner v Facebook Ireland Limited [2018] IESC 38 resolves to 'no docs found' on the aforementioned docs wherein this case was cited in the RHL however, the one found in doc 'Data protection and privacy tracker' in which the case was cited in the body, the case was upsell but working. See snippets below.
+ 
+
+- Martin looking into, almost fixed, Trevor looking into",Linking,
+757900968465401,Use the ECLI in the normcite,Daniel Hutchings,"CPT, JCITE","Be able to use the ECLI in the normcite so we can link to specific versions of cases. This will be a major benefit to all Brexit related content. Currently using external links to third party content, not ideal.
+
+- Martin to raise this with JCITE, underway",Linking,
+752621276423165,[2016] 1 All ER 1—citation leads to a different case,Ellaiza Janda-Berroy,"CPT, MarkLogic","Doc ID: 2824324
+Doc title: Enforcing settlement agreements concluded after proceedings have commenced
+
+Arnold v Britton [2016] 1 All ER 1
+
+Description of issue: link to a case is leading to different case
+
+- Trevor is ON IT",Linking,
+705237983360392,Troop v Gibson [1986] 1 EGLR 1—case leading to different case,Ellaiza Janda-Berroy,"CPT, MarkLogic","2885234
+A long leaseholder is in breach of covenant that the property may only be used and occupied by one family, by converting it into an HMO now let to several occupiers on ASTs. Assuming the head landlord establishes the breach at the FTT, what is the best way for him to evict the current occupiers?
+Troop v Gibson [1986] 1 EGLR 1 in RHCL is leading to different Case page
+https://www.lexisnexis.com/uk/lexispsl/propertydisputes/docfromresult/D-WA-A-WEA-WEA-MsSWYWD-UUA-UZEYAAUUW-U-U-U-U-U-U-ACBAWEBDAU-ACWYYDVCAU-VEVZEZAYV-U-U/2/410972
+
+- with Trevor",Linking,
+697767623289975,FINANCIAL SERVICES- LINK LEADING TO WRONG PAGE (FEES),Ellaiza Janda-Berroy,"CPT, FCAPRA","Doc ID: 2771618
+Doc title: FCA consultation tracker 2018 
+XML markup: N/A
+Description of issue:
+FEES 4.4 is leading to FEES TP4
+
+- Martin looking into",Linking,
+676739433403900,Barratt Manchester Ltd v Bolton Metropolitan Borough Council [1998] 1 All ER 1—the citation leads to the wrong case,Ellaiza Janda-Berroy,"CPT, MarkLogic","2462249
+Freezing injunctions—applicant's cross-undertakings
+Barratt Manchester Ltd v Bolton Metropolitan Borough Council [1998] 1 All ER 1—the citation leads to the wrong case
+
+- Trevor looking at this, maybe an update in two week's time",Linking,
+678611635741285,"Dispute Resolution—Weekly highlights—18 May 2018 (2878573)—'Regulation (EC) 864/2007, Article 4(1)' in the email alert doesn't work",Ellaiza Janda-Berroy,"Product, CPT","- in backlog, quite high up the list (51774), may be fixed next Tuesday
+
+- will need a new example to see if this has been fixed
+
+-added to backlog (13/12)",Linking,
+678400729239680,"*""Articles 26, 57, 58 and 101 TFEU""—only ""Articles 26"" links and 57, 58 and 101 TFEU are flat
+*Article 56 TFEU is flat",Lexi Crispe,"CPT, JCITE","2791188
+
+Key appeals cases—2018
+
+*In ""Articles 26, 57, 58 and 101 TFEU""—only Articles 26 links and 57 58 and 101 TFEU are flat
+*Article 56 TFEU is flat
+
+- Martin to look into, with JCITE
+- might be a way to workaround it with the new linking method, Martin to test
+
+TFEU, Articles 26, 57, 58 and 101 - will work",Linking,
+669176754121446,FAMILY PA: CASE LINK GOING TO WRONG CASE: ,Lexi Crispe,"CPT, MarkLogic","a link to a cited case in the PN 142404 links through to the wrong case:  'Re A (a minor) (Contact: parent's application for leave) [1998] 1 FLR 1' goes to 'Wheeldon v Wheeldon [1998] 1 FLR 463'
+
+- Trevor working on something, maybe in two weeks we have an update, Martin to check if he has one",Linking,
+646981367917722,IRLR Highlights - replace the external links for citations,Daniel Hutchings,"Dan, CPT, Automation","385 external links on 181849 go to IRLR highlights pages on Lexis Library. These are all the pre 2005 links that need to be changed over to the citation so they will pattern match.
+ 
+Quick link to the page on live: https://www.lexisnexis.com/uk/lexispsl/employment/document/393759/564B-HCK1-F18B-S46D-00000-00/Monthly%20highlights%20from%20the%20IRLR
+
+The citations are currently not visible on Lexis Library but Connell has supplied a list. 
+
+UPDATE: 
+    On the list you gave, 1981, 1980, and 1979 all had citations with “[year] IRLR i”, which upon publish yielded know hot link. I changed this to “[year] IRLR 1” to copy the format of the others, which creates a link but it goes to the case and not the month page as expected. 
+    Also, for 1980 and 1979, not all the months citations were supplied. As placeholders for now I’ve filled them in with “[year] IRLR 1”
+ 
+Are you able to provide these missing citations?
+
+- Martin met with Kirstyn, now knows the owners of the content and will catch up with them to ask whether we can change the citations. Maybe next week an update on whether they can be changed. Might have fixed this, Martin to check",Linking,
+623485333299235,Multiple cases—flat links,Daniel Hutchings,"Dan, CPT, JCITE, SessionsCases","DOC ID: 2809201
+DOC TITLE:  Disputes concerning servitudes in Scotland
+PRACTICE AREA:  Property
+
+Description of issue: These cases are flat too though the citations are available in the library. Same with the other one, these links are session cases in the library:
+
+*Henderson v Earl of Minto (1860) 22 d 1126
+*Grierson v Sandsting School Board (1882) 9 R 437
+*Irvine Knitters Ltd v North Ayrshire Co-Operative Society Ltd 1978 SC 109
+*Patrick v Napier (1867) 5 M 683
+*Alexander v Stobo (1871) 9 M 599
+*Cooper and McLeod v Edinburgh Improvement Trs (1876) 3 R 1106
+*Rattray v Tayport Patent Slip Co (1866) 4 M 499
+*Rodgers v Harvie (1829) 7 S 287
+*Macdonald v Watson (1830) 8 S 584
+*Stobbs v Caven (1873) 11 M 530
+*Kelso School Board v Hunter (1874) 2 R 228, per Lord Deas
+*Innes v Innes (1829) 7 S 762
+*Stewart Pott & Co. v Brown Bros (1878) 6 R 35
+*Muirhead v Glasgow Highland Society [1864] 2 M 420
+*Winans v Lord Tweedmouth [1888] 15 R 540
+ 
+
+- Martin looking at remaining case",Linking,
+622335155159201,Two links that aren't working - different types,Daniel Hutchings,"CPT, JCITE"," 
+Both of the below citations have been tried (one of them represents the Library transcript) on the cases pod here, and neither work: https://www.lexisnexis.com/uk/lexispsl/planning/synopsis/137367:137412/Planning-judicial-and-statutory-review/Statutory-review?wa_origin=paHomePage
+[2001] EWHC Admin 74
+[2001] EWHC 74 (Admin) - this is the wrong format, if this is required still, change this to the same citation as the one above
+
+- pattern changes made to honour both these
+ 
+On the Key Resources tab, above the Court Fees Schedule link is expected a link to “PSL Civil Procedure Rules & PDs, Guides and Protocols”. Apparently DR link to this in exactly the same way and it works for them but not in Property Disputes. Is this a PA code thing and is it possible to make it work or should I inform the editor to try something else?
+https://www.lexisnexis.com/uk/lexispsl/propertydisputes/home
+- this is now fixed
+ 
+ - Martin to send email confirming shortly",Linking,
+598243272095532,[2001] EWHC Admin 469 - not pattern matching,Daniel Hutchings,"CPT, JCITE","We have the citation on the below landing page that is correct and available but for some reason is not linking on the landing page. 
+ 
+https://www.lexisnexis.com/uk/lexispsl/corporatecrime/synopsis/96916:96918/Local-Authority-prosecutions/Trading-Standards-offences?wa_origin=paHomePage
+R on the application of Bilon v WH Smith Trading Ltd [2001] EWHC Admin 469 
+ 
+- JCITE",Linking,
+580236516711599,SYSC 6 is going to SYSC TP6 instead ,Daniel Hutchings,"Dan, CPT, FCAPRA","Doc ID: 234470
+Doc title: Senior management arrangements, systems and controls
+XML markup: N/A
+Description of issue:
+SYSC 6 is going to SYSC TP6 instead of SYSC Chapter 6.
+
+- Martin to look into",Linking,
+543607629430164,FINANCIAL SERVICES: LINKS NOT LEADING TO CORRECT PAGE,Daniel Hutchings,"Dan, CPT, FCAPRA","Doc ID: 177698
+Doc title: Multilateral Trading Facilities (MTFs)
+XML markup: N/A
+Description of issue:
+2nd RHL under section: What is a multilateral trading facility (MTF)?
+- MAR 5AA.1 is linking to MAR 5A.1 instead
+1st RHL under section: MTFs and passporting
+- SUP 13 links to SUP 13 ANNEX 6 
+In-line text on the first sentence under section: FCA guidance on MTF rulebooks - MAR 5 links to MAR 5 ANNEX 1D
+
+- Martin looking into, maybe an update next week",Linking,
+537051029557995,COBS 6.1 leading to Schedule 6 instead of Chapter 6,Daniel Hutchings,"Dan, CPT, FCAPRA","Doc ID: 2621904
+Doc title: MiFID II organisational requirements 
+Keywords to find RHCL: N/A 
+XML markup: N/A
+Description of issue:
+COBS 6.1 leading to Schedule 6 instead of Chapter 6
+Link is under para: FCA amendments to compliance function requirements
+
+- Martin looking into, maybe next week an update",Linking,
+473849582985910,LNCI Cite markup enrichment,Daniel Hutchings,CPT,"- Luke to check with PSLs what they think about making a change to explicity mark up for all links
+- CPT to generate a report with stats before we consider the approach
+
+
+Mark up all pattern links with LNCI cite tags and set the type attributes to classify the links
+
+- progressing in a good way, less dependency on Echo team
+- Echo team to do some sizings
+- looking like next year before we can start
+- should know how long the process will take as of next week
+- Straight apostrophes to be converted to curly apostrophes, see emails
+- Akan/Connell, take advantage of this and do some table borders markup enrichment
+
+- might be Easter, need a very long weekend, not much more CPT can do at present, waiting for Echo team. Maybe an update next week. Martin to get this moving again with Stewart and Vishal
+
+",Linking,
+216190373500683,Issues with links in the FCA handbook,Daniel Hutchings,"Dan, CPT, FCAPRA","Doc title: Directors’ remuneration report 
+Doc ID: 118504
+Location: page search “LR App 2”
+Pattern issue:
+LR App 2 doesn’t pattern match, but LR App 2.1 does. This isprobably because there is no content at LR App 2, but is it possible to set upa pattern that will take the user to the first place with content, i.e. LR App2.1?
+
+Doc title: Prospectus requirements - financial information 
+Doc ID: 119497 
+Location: scroll down to the bottom of the Practice Note andyou’ll see that this happens for most of the right hand column links
+Pattern issue: PR App 3.1.1 pattern matches but linksthrough to Rule 3.1.1.
+
+---
+
+We are experiencing issues with links to Appendices and
+Annexes in the Listing Rules (LRs), Prospectus Rules (PRs) and
+Disclosure Guidance and Transparency Rules (DTRs), all contained in the
+FCA Handbook. 
+
+You are already looking into our problem that links to the DTRs are not working at all and are just greyed out.
+
+I would also now like to report that links to Appendices and Annexes in the LRs and PRs are not working properly – they are either greyed out or linking to the wrong material.
+
+The issues experienced depend on the level of the reference, as follows (by reference to the LRs, but the same seems to apply to the PRs):
+
+Appendix reference: LR App 2
+Doesn’t work – greyed out.
+Example: Directors’ remuneration report (Under main heading ‘Listing Rules requirements’, see section heading ‘Financial years ended before 30 September 2013’ – in the third paragraph see how LR App 2 does not link but LR App 2.1 does in the previous paragraph).
+
+But strangely it does work if the reference is, for example, PR App 3 Ann 1, para 1.2 (see right hand column links in: Director’s responsibility letter—secondary offers (drafting notes)).
+
+Appendix section reference: LR App 2.1
+This links through correctly.
+Example: Listing Rules requirements—the annual financial report (see section headed ‘Directors’ remuneration report’).
+
+Appendix rule reference: LR App 3.1.1
+Links through to the wrong material. 
+Instead of linking through to Appendix Rule 3.1.1, it goes through to Rule 3.1.1.
+Example: Prospectus requirements--financial information (scroll down to the bottom of the Practice Note and you’ll see that this happens for most of the right hand column links towards bottom of the Practice Note).
+
+Annex to appendix: PR App 3.1.1 Ann 3
+The Annex link doesn’t work (greyed out).
+Example: Prospectus requirements--financial information (scroll down to the bottom of the Practice Note and you’ll see that this happens for most of the right hand column links towards bottom of the Practice Note – the same links where the App 3.1.1 link is going through to the main rule 3.1.1 rather than the appendix 3.1.1). 
+
+I notice that you can link through to an Annex which is the annex to the main rules, rather than an annex to an appendix of the rules – see for example Board minutes of a listed company to convene a general meeting to authorise on-market share buybacks (drafting notes) – see the second right hand column link to Paragraph 2 (business of the meeting), which links to LR 11 Ann 1.
+
+I’d be grateful if you could look into this as soon as possible.
+
+
+- Martin done, documentation to follow shortly, maybe next week an update",Linking,
+150154634270632,EU legislation going to No docs found in IP&IT June TMH 1657463,Jasminder Kenneally,"Akan, EU leg, Verify resolution, CPT, JCITE","articles 4(a), 4(c), 5(1) and 5(2) of Directive 91/250/EC
+Regulation (EU) 2016/679
+art 33(2)of Council Regulation (EC) 6/2002
+art 94 of Council Regulation (EC) 2100/94.",Linking,
+205912232299141,Linking to Yellow,Daniel Hutchings,"Dan, AUTHOR ATTRIBUTION, Pattern request, CPT","I raised a general query earlier about how editors could and should link to Yellow Tax Handbook. I think Martin asked where exactly the editor wants to link to. I now have that information:
+
+I'm trying to link in this source Yellow Tax Handbook 2016-17 > Inheritance Tax > Press Releases etc > Press releases > IHT: gifts with reservation > Gifts of land. Please see the attached screenshot.
+
+2284709
+
+- Martin talked to Craig, gave the go ahead, might be some complication with the year, get started maybe next week",Linking,
+894094892751290,Download button not working,Lexi Crispe,CPT,"Doc ID: 2050
+Doc title: Accrued income scheme
+URL to landing page: https://www.lexisnexis.com/tolley/guidance/ownermanagedbusiness/documentFromList.faces?format=GNBFULL&asetId=D-WA-W-BBC-C-MsSWYWD-UUB-UZEYVCUUU-U-U-U-U-U-U-ACVBDCDZUE-ACVABBYVUE-DYZBYCWUZ-U-U&ALL_PA=true&ps=searchQuick,OWNERMANAGEDBUSINESS,ALL,null,0,1,D-WA-W-BBC-C-MsSWYWD-UUB-UZEYVCUUU-U-U-U-U-U-U-ACVBDCDZUE-ACVABBYVUE-DYZBYCWUZ-U-U,null,null,,&csi=363620&docNo=1
+Description of issue: I get an Application Error message when I try to download the Word version of the document on the live site. I have tried doing this in Chrome, Edge, and IE. ",TolleyGuidance,
+783924472961238,flat links,Lexi Crispe,CPT,"Doc ID: 58084
+Doc title: Offshore issues
+URL to landing page: https://www.lexisnexis.com/tolley/guidance/ownermanagedbusiness/documentFromList.faces?format=GNBFULL&asetId=D-WA-W-CWE-CWE-MsSWYWZ-UUW-UZEYVCUUU-U-U-U-U-U-U-ACBDUEWYVZ-ACBVZDBZVZ-ZBZWAWEEW-U-U&ALL_PA=true&ps=searchQuick,OWNERMANAGEDBUSINESS,ALL,null,0,1,D-WA-W-CWE-CWE-MsSWYWZ-UUW-UZEYVCUUU-U-U-U-U-U-U-ACBDUEWYVZ-ACBVZDBZVZ-ZBZWAWEEW-U-U,null,null,,&csi=363621&docNo=1
+Description of issue: Links for CH114100, CH114200 and CH114300 appear as flat text on the live site despite these existing in TolleyLibrary.
+
+
+- Connell looking into, crawler issue, next on the list, almost done",TolleyGuidance,
+722807418957218,Download button not working,Lexi Crispe,CPT,"Doc ID: 13841
+Doc title: Disposal of premises
+URL to landing page: https://www.lexisnexis.com/tolley/guidance/corporatetax/subtopicApi.faces?pa=corporatetax&CT=Examples&topic=153&stopic=325&lnBCTClick=Topic
+Description of issue: 
+
+Word doc download button gives an error message. Redid all tables and have tried using Chrome, Edge and Internet Explorer. 
+
+- Martin had a play and has done something but can't remember what it was, may be fixed, to email shortly",TolleyGuidance,
+945318238572368,Word download error—Alternative tag,Ellaiza Janda-Berroy,CPT,"Doc ID: 141026
+Doc title: Application letter—stamp duty group relief—FA 1930, s 42
+Issue: the word 'OR' appears every after text line in word. See screenshot attached.",Table/layout/download issues,
+945418807139326,160877 - Confidentiality letter—mutual  - combined PR/DN word download duplicate clause numbers,Lexi Crispe,"Product, CPT","ID:  160877
+Title: Confidentiality letter—mutual
+Issue: When downloading the combined PR and DN word download the Precedent document part has double clause numbers and cut off loweralphas in lists. Issue does not occur when downloading the individual word download of the PR (see attached image).
+
+
+",Table/layout/download issues,
+800816303801270,3116429 Drafting and negotiating an endeavours obligation—checklist,Lexi Crispe,"Product, CPT","Doc ID: 3116429 
+Doc title: Drafting and negotiating an endeavours obligation—checklist
+Description of issue: Some of the grid lines are not showing as seen in the attached image.
+I have tried recreating the table and applying the ff formulas in xml:
+<row rowsep=""1"">
+<entry colsep=""1"" rowsep=""1"">
+<colspec colname=""col1"" colsep=""1"" colwidth=""1.00*""/><colspec colname=""col2"" 
+Is this possible to be fixed?
+There's no grid in the header row, the 'Key issues' row and the 'Other considerations' row when downloaded into word.
+
+- This is for Product, tagged accordingly
+
+-still in backlog(13/12)",Table/layout/download issues,
+161897131268256,Subsection overviews - main section styling,Akan,"Akan, CPT","- martin looking into, not high on the list, no update, quite possibly will be fixed soon",Table/layout/download issues,
+595732623056479,"Doc ID: 2816156, 2812843
+Doc title: DR weekly highlights (x 2)
+Description of issue: Random bullet point in sub-list and EU Leg article links not working",Akan,"Akan, Product, CPT","- Lisa added to backlog (49216), groomed and sized, will be in the a sprint
+
+- (06/12) Lisa has added it to new post-pivot/post-Proxy backlog (relatively low priority) - Akan has asked for this to be classed as highest priority of the 3 O/S product issues 
+
+",Table/layout/download issues,
+542838366939352,Issue with precedents - Business and Property Courts Birmingham - directions template (2787037),Lisa O'Callaghan,"Product, Lexi, CPT","Doc ID: 2787037
+Doc Title: Business and Property Courts Birmingham - directions template
+Description of issue: The document in live has boxes around the High Court wording and the claim number wording - see attachment .
+
+The template provided by the courts does not have the boxes ( see court template document attachment.  We need to replicate the court document exactly.  Please can you get rid of the boxes.
+
+- In backlog (49443), groomed and sized with a 5, will be in the next few sprints, october or beyond",Table/layout/download issues,
+705392397849277,Other task - investigate recommends issue,Lexi Crispe,"Product, CPT, MarkLogic","- Same issue as https://app.asana.com/0/258671170415129/411776810088263/f
+
+- Martin needs to do something with Toolkits, on the list",Lexis Recommends,
+411776810088263,LexisRecommends query,Lisa O'Callaghan,"Product, Lexi, CPT, MarkLogic","I noticed recently a weird result with LexisRecommends which I think may be a mistake or a bug. Searching for this:
+
+""Internet of things (IoT)—data protection, privacy and security""
+
+Brings back recommends results from B&F and FS in relation to certain security documents which have nothing to do with this note. I don't think they would have intentionally added this term (it's the specific name of PN, for a start) to their Recommends.
+
+- Dependent on research into whether we're keeping LR or not. 
+
+- may get some attention now due to Pinsents engagement",Lexis Recommends,
